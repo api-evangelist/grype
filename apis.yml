@@ -1,0 +1,28 @@
+aid: grype
+name: Grype
+description: >-
+  Grype is a vulnerability scanner for container images and filesystems that works with Syft-generated SBOMs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Containers
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/grype/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: grype:grype
+    name: Grype
+    description: >-
+      Grype is a vulnerability scanner for container images and filesystems that works with Syft-generated SBOMs.
+    humanURL: https://github.com/api-evangelist/grype
+    tags:
+      - Containers
+    properties: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/grype
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
