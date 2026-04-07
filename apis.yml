@@ -8,12 +8,12 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Container Images
   - Containers
+  - Open Source
+  - SBOM
   - Security
   - Vulnerability Scanning
-  - SBOM
-  - Container Images
-  - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/grype/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -29,11 +29,11 @@ apis:
       Singularity image formats.
     humanURL: https://github.com/anchore/grype
     tags:
+      - Container Images
       - Containers
+      - SBOM
       - Security
       - Vulnerability Scanning
-      - SBOM
-      - Container Images
     properties:
       - type: Documentation
         url: https://github.com/anchore/grype/blob/main/README.md
