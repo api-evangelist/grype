@@ -54,6 +54,11 @@ common:
     url: https://anchore.com/blog/
   - type: Pricing
     url: https://anchore.com/pricing/
+  - type: Integrations
+    url: https://anchore.com/integrations/
+integrations:
+  - name: Anchore
+  - name: Icon
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
