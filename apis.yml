@@ -37,16 +37,16 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/anchore/grype/blob/main/README.md
-      - type: Getting Started
+      - type: GettingStarted
         url: https://oss.anchore.com/docs/guides/vulnerability/getting-started/
 common:
   - type: Website
     url: https://anchore.com/
   - type: Documentation
     url: https://github.com/anchore/grype/blob/main/README.md
-  - type: Getting Started
+  - type: GettingStarted
     url: https://oss.anchore.com/docs/guides/vulnerability/getting-started/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/anchore
   - type: Open Source
     url: https://anchore.com/opensource/
