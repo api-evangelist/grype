@@ -17,7 +17,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/grype/refs/heads/main/apis.yml
 created: '2026-03-26'
-modified: '2026-04-28'
+modified: '2026-05-19'
 specificationVersion: '0.19'
 apis:
   - aid: grype:grype
@@ -56,6 +56,9 @@ common:
     url: https://anchore.com/pricing/
   - type: Integrations
     url: https://anchore.com/integrations/
+  - name: MCP Server
+    url: https://github.com/anchore/grype-mcp
+    type: MCPServer
 integrations:
   - name: Anchore
   - name: Icon
