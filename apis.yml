@@ -40,6 +40,8 @@ apis:
       - type: GettingStarted
         url: https://oss.anchore.com/docs/guides/vulnerability/getting-started/
 common:
+  - type: DomainSecurity
+    url: security/grype-domain-security.yml
   - type: Website
     url: https://anchore.com/
   - type: Documentation
