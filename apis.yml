@@ -22,6 +22,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/grype.png
 tags:
   - Container Images
   - Containers
+  - Open-Source
+  - SBOM
+  - Security
+  - Vulnerability Scanning
+tags_raw:
+  - Container Images
+  - Containers
   - Open Source
   - SBOM
   - Security
