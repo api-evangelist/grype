@@ -33,7 +33,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/grype.png
 tags:
   - Container Images
   - Containers
-  - Open-Source
+  - Open Source
   - SBOM
   - Security
   - Vulnerability Scanning
@@ -44,6 +44,7 @@ tags_raw:
   - SBOM
   - Security
   - Vulnerability Scanning
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/grype/refs/heads/main/apis.yml
 created: '2026-03-26'
