@@ -71,6 +71,12 @@ apis:
       - type: GettingStarted
         url: https://oss.anchore.com/docs/guides/vulnerability/getting-started/
 common:
+  - type: Plans
+    url: plans/grype-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/grype-rate-limits.yml
+  - type: FinOps
+    url: finops/grype-finops.yml
   - type: DomainSecurity
     url: security/grype-domain-security.yml
   - type: Website
